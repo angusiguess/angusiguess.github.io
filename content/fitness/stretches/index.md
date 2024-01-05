@@ -47,7 +47,7 @@ If this is too easy, work towards King Pigeon
 
 2x Knee over Ankle Stretch
 
-![https://www.youtube.com/watch?v=2cuYI6s3Qlo](https://www.youtube.com/watch?v=2cuYI6s3Qlo)
+[https://www.youtube.com/watch?v=2cuYI6s3Qlo](https://www.youtube.com/watch?v=2cuYI6s3Qlo)
 
 2x Pancake Stretch
 
