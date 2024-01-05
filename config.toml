@@ -4,8 +4,15 @@ base_url = "https://goose.haus"
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
 
+generate_feed = true
+
+default_language = "en"
+
 # Whether to build a search index to be used later on by a JavaScript library
 build_search_index = true
+
+# Theme
+theme = "anemone"
 
 [markdown]
 # Whether to do syntax highlighting
@@ -13,4 +20,12 @@ build_search_index = true
 highlight_code = true
 
 [extra]
+default_theme = "dark"
+toc = true
+
+header_nav = [
+           { url = "/", name_en = "/home/" },
+           { url = "/cv/", name_en = "/cv/" }
+]
+
 # Put all your custom variables here
