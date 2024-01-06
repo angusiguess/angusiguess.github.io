@@ -10,7 +10,7 @@ Last Updated: January 3 2023
 
 This routine was put together to satisfy a couple of goals:
 - Do any stretching at all
-- Put stretching into my the break periods of my routine
+- Put stretching into the break periods of my routine
 - Develop flexibility with the least reasonable effort.
 
 ## Assumptions
