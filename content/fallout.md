@@ -16,3 +16,4 @@ And to a certain extent, I expected this! I'm pretty tired of the Hobbesian war 
 
 The show looks really nice! Costumes and props all work for me. It's initially a bit annoying to feel like the show is whispering "that's a Fallout thing" to you, but I think it hits a nice rhythm even if I find myself wearily shouting "WAR NEVER CHANGES" at the tv on cue. The nods to video game absurdism are inconsistent: I felt like my eyes were going to roll out of my head when Lucy was talking about her stats, but stimpack logic and the sheer variety of inhalers work for me.
 
+Ultimately I think Fallout is pretty enjoyable when it isn't trying to explain itself, it just spends an awful lot of time explaining itself.
