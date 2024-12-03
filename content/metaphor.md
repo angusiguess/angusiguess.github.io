@@ -41,4 +41,4 @@ I'm about halfway through Shin Megami Tensei IV and have enjoyed its level of ch
 
 ## Did I not like Metaphor or do I not like modern JRPG design?
 
-I don't play enough RPGs to have a strong feeling for how common these tensions are. Metaphor seems to be critically well received so I don't feel like my issues are broadly felt. Did you beat it? Did you like it? Let me know [what you think](https://bsky.app/profile/goose.haus)
+I don't play enough RPGs to have a strong feeling for how common these tensions are. Metaphor seems to be critically well received so I don't feel like my issues are broadly felt. Did you beat it? Did you like it? Let me know [what you think](https://bsky.app/profile/goose.haus).
