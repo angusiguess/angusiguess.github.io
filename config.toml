@@ -4,7 +4,8 @@ base_url = "https://goose.haus"
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
 
-generate_feed = true
+generate_feeds = true
+feed_filenames = ["rss.xml"]
 
 default_language = "en"
 
@@ -22,10 +23,11 @@ highlight_code = true
 [extra]
 default_theme = "dark"
 toc = true
+list_pages = true
 
 header_nav = [
            { url = "/", name_en = "/home/" },
-           { url = "/cv/", name_en = "/cv/" }
+           { url = "/blog/", name_en = "/blog/" }
 ]
 
 # Put all your custom variables here
