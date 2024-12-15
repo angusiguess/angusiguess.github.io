@@ -3,7 +3,7 @@ template = "page.html"
 title = "Anthology of the Killer, it's good!"
 authors = ["goose"]
 slug = "thekiller"
-date = 2024-12-02
+date = 2024-12-15
 +++
 
 The first time I saw any kind of developer commentary in a game was Gravity Bone. There was a pit full of lights that disappear off into the darkness and the commentary gestured toward a theme park trick where if you're making a similar pit, you can make it look deeper by placing the lights at progressively closer intervals to each other to give it a foreshortening effect. This sticks in my mind, I think, because it gave me one of the ways to think about walking simulators.
