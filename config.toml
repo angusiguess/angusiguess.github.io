@@ -5,7 +5,7 @@ base_url = "https://goose.haus"
 compile_sass = true
 
 generate_feeds = true
-feed_filenames = ["rss.xml"]
+feed_filenames = ["rss.xml", "atom.xml"]
 
 default_language = "en"
 
