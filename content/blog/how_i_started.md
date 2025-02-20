@@ -2,6 +2,7 @@
 template = "blog-page.html"
 title = "Getting Started Organizing for the Disconnected"
 slug = "organizing"
+draft = true
 +++
 
 While scrolling my Bluesky feed the other night I saw someone post [All You Fascists Bound To Lose](https://www.youtube.com/watch?v=VwcKwGS7OSQ) and was immediately transported to 2016 when I did the same thing before quitting Facebook the next day after the election was called. I was in an awkward place, radical politics spoke to me but I wasn't connected to any scenes or people who were directly involved. I didn't have any community involved in organizing (and at the time I wasn't able to recognize what did exist) but I wanted to get started doing *something*. In the intervening 8 years I've been involved in a number of local organizing projects. If you're reading this, I hope that my experience can help you in some way!
